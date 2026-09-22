@@ -4,14 +4,14 @@ class LayoutBasicsDemo extends StatelessWidget {
   const LayoutBasicsDemo({super.key});
 
   final List<String> movies = const [
-    'Avengers: Endgame',
-    'Spider-Man: No Way Home',
-    'Iron Man',
-    'Venom',
-    'Ant-Man',
-    'Doctor Strange',
-    'Black Panther',
-    'Thor: Ragnarok',
+    'Lê Thanh Bình',
+    'Lê Thanh Bình',
+    'Lê Thanh Bình',
+    '26A4040712',
+    'Lê Thanh Bình',
+    'Lê Thanh Bình',
+    'Lê Thanh Bình',
+    'Lê Thanh Bình',
   ];
 
   @override
