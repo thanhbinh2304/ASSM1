@@ -80,7 +80,7 @@ class _AppStructureDemoState extends State<AppStructureDemo> {
               const SizedBox(height: 8),
 
               const Text(
-                'Tap the button in the AppBar to change theme.',
+                'LÊ THANH BÌNH',
               ),
             ],
           ),

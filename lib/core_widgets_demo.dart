@@ -7,7 +7,7 @@ class CoreWidgetsDemo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Core Widgets Demo'),
+        title: const Text('LÊ THANH BÌNH - 26A4040712'),
       ),
 
       body: Padding(

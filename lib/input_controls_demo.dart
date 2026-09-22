@@ -54,7 +54,7 @@ class _InputControlsDemoState extends State<InputControlsDemo> {
             // =========================
 
             const Text(
-              'Rating (Slider)',
+              'Lê Thanh Bình (Slider)',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
